@@ -1,0 +1,27 @@
+body{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: "Verdana", sans-serif;
+}
+img{
+	margin: 40px;
+	height: 100px;
+	width: 300px;
+}
+a{
+	color: red;
+}
+h1{
+	margin: 30px 0 0 0;
+}
+h2{
+	margin: 20px;
+}
+p{
+	font-size: 24px;
+	font-weight: bold;
+	background-color: dimgray;
+	margin: 80px 30px 0 30px;
+	padding: 20px;
+}
